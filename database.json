@@ -1,0 +1,122 @@
+{
+  "dailySpecials": [
+    {
+      "id": "ds1",
+      "name": "Super BBQ Pizza",
+      "price": 9,
+      "oldPrice": 15,
+      "description": "Sale 40% only today!",
+      "image": "public/images/DailySpecialIMG1.jpg"
+    },
+    {
+      "id": "ds2",
+      "name": "Coca Cola Zero",
+      "price": 1,
+      "oldPrice": 2.5,
+      "description": "Buy with Pizza for a great deal",
+      "image": "public/images/DailySpecialIMG2.jpg"
+    },
+    {
+      "id": "ds2",
+      "name": "Coca Cola Zero",
+      "price": 1,
+      "oldPrice": 2.5,
+      "description": "Buy with Pizza for a great deal",
+      "image": "public/images/DailySpecialIMG2.jpg"
+    },
+    {
+      "id": "ds2",
+      "name": "Coca Cola Zero",
+      "price": 1,
+      "oldPrice": 2.5,
+      "description": "Buy with Pizza for a great deal",
+      "image": "public/images/DailySpecialIMG2.jpg"
+    }
+
+
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Spicy Ramen",
+      "price": 14.5,
+      "category": "Asian",
+      "image": "public/images/ProductIMG1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Cheese Burger",
+      "price": 12,
+      "category": "Burger",
+      "image": "public/images/ProductIMG2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Vegan Salad Bowl",
+      "price": 10,
+      "category": "Salad",
+      "image": "public/images/ProductIMG3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Margherita Pizza",
+      "price": 11,
+      "category": "Pizza",
+      "image": "public/images/ProductIMG4.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Spicy Ramen",
+      "price": 14.5,
+      "category": "Asian",
+      "image": "public/images/ProductIMG1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Cheese Burger",
+      "price": 12,
+      "category": "Burger",
+      "image": "public/images/ProductIMG2.jpg"
+    },
+    {
+      "id": "1766835428486",
+      "name": "Pizzahut",
+      "price": 123,
+      "category": "Pizza",
+      "image": "public/images/ProductIMG1.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "img1",
+      "url": "public/images/ProductIMG1.jpg",
+      "name": "Pizza Seafood"
+    },
+    {
+      "id": "img2",
+      "url": "public/images/ProductIMG2.jpg",
+      "name": "Burger Beef"
+    },
+    {
+      "id": "img3",
+      "url": "public/images/ProductIMG3.jpg",
+      "name": "Spagetti "
+    },
+    {
+      "id": "img4",
+      "url": "public/images/ProductIMG4.jpg",
+      "name": "Salad"
+    },
+    {
+      "id": "img5",
+      "url": "public/images/DailySpecialIMG1.jpg",
+      "name": "Combo 1"
+    },
+    {
+      "id": "img6",
+      "url": "public/images/DailySpecialIMG2.jpg",
+      "name": "Combo 2"
+    }
+  ],
+  "users": []
+}
